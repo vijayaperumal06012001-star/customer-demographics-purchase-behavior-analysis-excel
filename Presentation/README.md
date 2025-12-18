@@ -32,7 +32,7 @@ XYZ Retail lacks a clear understanding of how customer demographics such as age,
 
 ---
 
-## 🛠 Skills & Tools Used
+## Skills & Tools Used
 
 ### Skills
 - Data Cleaning & Preprocessing  
@@ -98,7 +98,7 @@ The dataset contains customer-level retail transaction data, including:
 
 ---
 
-## 📊 Key Insights
+## Key Insights
 - Certain age groups contribute disproportionately to total revenue  
 - Product category performance varies significantly across regions  
 - Some regions show strong seasonal purchasing trends  
